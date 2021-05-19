@@ -671,7 +671,7 @@ body {
             <div class="sidebar-submenu">
               <ul>
                 <li>
-                  <a href="http://192.168.0.143:8080/testing/index.php" target="_blank">
+                  <a href="http://192.168.0.143:8080/proyecto_21/direccionario/index.php" target="_blank">
                   <i class="fa fa-shopping-bag"></i>
                     <span>Direccionario</span>
                   </a>
