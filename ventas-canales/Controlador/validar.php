@@ -638,7 +638,7 @@ body {
             <div class="sidebar-submenu">
               <ul>
                 <li>
-                  <a href="http://192.168.0.143:8080/testing/ventas_comercial/index.php" target="_blank">
+                  <a href="http://192.168.0.143:8080/proyecto_21/ventas-canales/ventas_comercial/index.php" target="_blank">
                   <i class="fa fa-shopping-bag"></i>
                     <span>Sucursales</span>
                     <span class="badge badge-pill badge-success mt-2">Disp</span>
