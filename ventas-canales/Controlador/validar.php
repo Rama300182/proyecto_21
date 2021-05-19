@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
@@ -688,7 +688,6 @@ body {
             <a href="#">
               <i class="fa fa-folder"></i>
               <span>Catalogo</span>
-              <span class="badge badge-pill badge-primary">Beta</span>
             </a>
           </li>
           <li class="header-menu">
@@ -725,7 +724,7 @@ body {
         <i class="fa fa-cog"></i>
         <span class="badge-sonar"></span>
       </a>
-      <a href="http://192.168.0.143:8080/proyecto_21/ventas-canales/login.php">
+      <a href="http://192.168.0.143:8080/testing/login.php">
         <i class="fa fa-power-off"></i>
       </a>
     </div>
@@ -734,7 +733,7 @@ body {
   <main class="page-content">
     <div class="container-fluid">
       <H2>
-        <img src="LOGO XL 2018.jpg" width="50px" height="40px"> XL GESTION 
+        <img src="../images/LOGO XL 2018.jpg" width="50px" height="40px"> XL GESTION 
       </H2>
       <hr>
       <div class="row">
@@ -742,23 +741,10 @@ body {
           <p>Sistema de gestión de XL</p>
           <p> Acceda a la página de la marca <a href="https://www.xlshop.com.ar/" target="_blank">
               XL</a> y vea los productos</p>
-    
-        <div class="form-group col-md-12">
-          <div class="alert alert-success" role="alert">
-            <h4 class="alert-heading">New !</h4>
-            <p>New react pro sidebar library is now available on <a href="https://www.npmjs.com/package/react-pro-sidebar" target="_blank">npm</a> <a href="https://github.com/azouaoui-med/react-pro-sidebar" target="_blank">
-                <img alt="GitHub stars" src="https://img.shields.io/github/stars/azouaoui-med/react-pro-sidebar?style=social" />
-              </a></p>
-            <a href="https://github.com/azouaoui-med/react-pro-sidebar" target="_blank" class="btn btn-sm btn-primary mr-2">
-              Github</a>
-            <a href="https://azouaoui-med.github.io/react-pro-sidebar" target="_blank" class="btn btn-sm btn-success">
-              Demo</a>
-
-          </div>
-
         </div>
       </div>
-      <h5>More Dashboards</h5>
+
+      <h5>Más Dashboards</h5>
       <hr>
       <div class="row">
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
@@ -783,20 +769,11 @@ body {
       <hr>
 
       <footer class="text-center">
-        <div class="mb-2">
+        <div class="mt-3">
           <small>
-            © 2020 made with <i class="fa fa-heart" style="color:red"></i> by - <a target="_blank" rel="noopener noreferrer" href="https://azouaoui.netlify.com">
-              Mohamed Azouaoui
+            © 2021 made with Ramiro Orozco
             </a>
           </small>
-        </div>
-        <div>
-          <a href="https://github.com/azouaoui-med" target="_blank">
-            <img alt="GitHub followers" src="https://img.shields.io/github/followers/azouaoui-med?label=github&style=social" />
-          </a>
-          <a href="https://twitter.com/azouaoui_med" target="_blank">
-            <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/azouaoui_med?label=twitter&style=social" />
-          </a>
         </div>
       </footer>
     </div>
