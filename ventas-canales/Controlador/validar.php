@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
 
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
@@ -17,7 +17,6 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
         crossorigin="anonymous">
     <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
-    <link href="Testing/images/LOGO XL 2018.jpg">
 
 <style>
 
@@ -520,7 +519,7 @@ body {
       </div>
       <div class="sidebar-header">
         <div class="user-pic">
-          <img class="img-responsive bg-white"  src="Ramiro Orozco.jpg" width="0,5" height="0,2" alt="Foto User">
+          <img class="img-responsive bg-white"  src="../images/user1.png" width="0,5" height="0,2" alt="Foto User">
         </div>
         <div class="user-info">
           <span class="user-name">Ramiro
@@ -697,13 +696,13 @@ body {
           </li>
           <li>
           <li>
-            <a href="https://www.instagram.com/xlextralarge/">
+            <a href="https://www.instagram.com/xlextralarge/" target="_blank">
               <i class="fab fa-instagram"></i>
               <span>Instagram</span>
             </a>
           </li>
          <li>
-            <a href="https://www.facebook.com/xlextralarge">
+            <a href="https://www.facebook.com/xlextralarge" target="_blank">
               <i class="fab fa-facebook"></i>
               <span>Facebook</span>
             </a>
@@ -726,7 +725,7 @@ body {
         <i class="fa fa-cog"></i>
         <span class="badge-sonar"></span>
       </a>
-      <a href="http://192.168.0.143:8080/testing/login.php">
+      <a href="http://192.168.0.143:8080/proyecto_21/ventas-canales/login.php">
         <i class="fa fa-power-off"></i>
       </a>
     </div>
