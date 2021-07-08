@@ -16,7 +16,7 @@ class Venta
 
         $sql = "
         SELECT FECHA_VENTA, DESC_SUCURSAL, ARTICULO, DESCRIPCION, CANT_VEND, RUBRO, TEMPORADA, DESTINO, PRECIO 
-        FROM SOF_STCK_VTA WHERE FECHA_VENTA BETWEEN '$desde' AND '$hasta' AND RUBRO LIKE '%$rubro' AND DESTINO LIKE '%$destino' 
+        FROM RO_VENTAS_COMERCIAL WHERE FECHA_VENTA BETWEEN '$desde' AND '$hasta' AND RUBRO LIKE '%$rubro' AND DESTINO LIKE '%$destino' 
         AND TEMPORADA LIKE '%$temporada'
         ";
         $stmt = sqlsrv_query( $cid_central, $sql );
